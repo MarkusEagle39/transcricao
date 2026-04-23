@@ -1,0 +1,19 @@
+{
+  "name": "Transcrição Instantânea",
+  "short_name": "Transcrição",
+  "description": "App de transcrição de voz para texto em tempo real, para auxiliar a comunicação entre surdos e ouvintes.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
